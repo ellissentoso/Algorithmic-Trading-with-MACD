@@ -31,5 +31,5 @@ Libraries: pandas_datareader, numpy, pandas, matplotlib, keras.
 
 ## Acknowledgements
 
-* [Computer Science]https://www.youtube.com/watch?v=kz_NJERCgm8)
+* [Computer Science] (https://www.youtube.com/watch?v=kz_NJERCgm8)
 
