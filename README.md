@@ -19,8 +19,8 @@ Jupyter Notebook and Python Programming.
 Libraries: pandas_datareader, numpy, pandas, matplotlib, keras.
 
 ## Usage
-<img src = "images/1.png">
-<img src = "images/2.png">
+<img src = "1.png">
+<img src = "2.png">
 
 
 
