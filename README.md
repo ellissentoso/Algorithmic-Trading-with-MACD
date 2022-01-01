@@ -1,7 +1,7 @@
 # Algorithmic-Trading-with-MACD
 
 
-  <h3 align="center">Stock Prediction with Recurrent Neural Network LSTM</h3>
+  <h3 align="center">Algorithmic Trading Strategy with MACD</h3>
 
 ## About The Project
 
@@ -19,6 +19,8 @@ Jupyter Notebook and Python Programming.
 Libraries: pandas_datareader, numpy, pandas, matplotlib, keras.
 
 ## Usage
+<img src = "images/1.png">
+<img src = "images/2.png">
 
 
 
